@@ -8,7 +8,11 @@
   font-weight: normal;
   font-style: normal;
 }
+.fables-logo{
 
+  height:140px; 
+  width:310px;
+}
 [class^="fables-icon"], [class*=" fables-icon"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'fables' !important;
@@ -51,9 +55,8 @@
 .fables-iconfile:before {
   content: "\e938";
 }
-.fables-iconhead-set-light:before {
-  content: "\e939";
-}
+
+
 .fables-iconnews:before {
   content: "\e934";
 }
