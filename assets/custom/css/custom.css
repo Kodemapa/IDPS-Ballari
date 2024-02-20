@@ -213,6 +213,9 @@ body{
     font-weight: 700;
     margin-bottom: 47px;
 }
+.w-100{
+    display: block;
+}
 .fables-top-header-signin{
     height: 40px;
     line-height: 38px;
