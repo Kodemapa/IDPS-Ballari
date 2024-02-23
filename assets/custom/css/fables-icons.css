@@ -153,6 +153,11 @@
 .fables-iconlink:before {
   content: "\e918";
 }
+.banner{
+  width:80%;
+  height: 100%;
+}
+
 .fables-iconlinkedIn:before {
   content: "\e919";
 }
